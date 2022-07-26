@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Oi, eu sou a Camila!
 <div align="center">
   <a href="https://github.com/camilautz">
